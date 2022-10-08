@@ -1,0 +1,37 @@
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\obj\Debug\netcoreapp3.1\Gestion_Bibliothèque.Authentification.resources
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\obj\Debug\netcoreapp3.1\Gestion_Bibliothèque.Menu.resources
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\obj\Debug\netcoreapp3.1\Gestion Bibliothèque.csproj.GenerateResource.cache
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\obj\Debug\netcoreapp3.1\Gestion Bibliothèque.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\obj\Debug\netcoreapp3.1\Gestion Bibliothèque.AssemblyInfoInputs.cache
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\obj\Debug\netcoreapp3.1\Gestion Bibliothèque.AssemblyInfo.cs
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\obj\Debug\netcoreapp3.1\Gestion Bibliothèque.csproj.CoreCompileInputs.cache
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\bin\Debug\netcoreapp3.1\Gestion Bibliothèque.exe
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\bin\Debug\netcoreapp3.1\Gestion Bibliothèque.deps.json
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\bin\Debug\netcoreapp3.1\Gestion Bibliothèque.runtimeconfig.json
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\bin\Debug\netcoreapp3.1\Gestion Bibliothèque.runtimeconfig.dev.json
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\bin\Debug\netcoreapp3.1\Gestion Bibliothèque.dll
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\bin\Debug\netcoreapp3.1\Gestion Bibliothèque.pdb
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\bin\Debug\netcoreapp3.1\MetroSet UI.dll
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\obj\Debug\netcoreapp3.1\Gestion Bibliothèque.dll
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\obj\Debug\netcoreapp3.1\Gestion Bibliothèque.pdb
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\obj\Debug\netcoreapp3.1\Gestion Bibliothèque.genruntimeconfig.cache
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\obj\Debug\netcoreapp3.1\Gestion_Bibliothèque.GestionUsers.resources
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\obj\Debug\netcoreapp3.1\Gestion_Bibliothèque.GestionOuvrage.resources
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\obj\Debug\netcoreapp3.1\Gestion Bibliothèque.csproj.AssemblyReference.cache
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\obj\Debug\netcoreapp3.1\Gestion_Bibliothèque.GestionEmprunt.resources
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\obj\Debug\netcoreapp3.1\Gestion_Bibliothèque.GestionAdherant.resources
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\obj\Debug\netcoreapp3.1\Gestion_Bibliothèque.EmprunterLivreForm.resources
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\obj\Debug\netcoreapp3.1\Gestion_Bibliothèque.EmprunterCDForm.resources
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\obj\Debug\netcoreapp3.1\Gestion_Bibliothèque.EmprunterPeriodiqueForm.resources
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\obj\Debug\netcoreapp3.1\Gestion_Bibliothèque.MenuUser.resources
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\obj\Debug\netcoreapp3.1\Gestion_Bibliothèque.StatistiquesForm.resources
+D:\Mes Documents\EMSI\CY.ING.INF\4IIR\DOT NET\1ère Semestre\Projects\prj\Gestion Bibliothèque\Gestion Bibliothèque\obj\Debug\netcoreapp3.1\Gestion_Bibliothèque.Properties.Resources.resources
